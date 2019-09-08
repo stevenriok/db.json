@@ -1,0 +1,167 @@
+[
+  {
+    "Id": 1,
+    "Nama_Produk": "Spakboard Depan Hitam",
+    "Harga": "90000"
+  },
+  {
+    "Id": 2,
+    "Nama_Produk": "Tangan Piston FKY",
+    "Harga": "140000"
+  },
+  {
+    "Id": 3,
+    "Nama_Produk": "Tangan Piston Mio-J",
+    "Harga": "130000"
+  },
+  {
+    "Id": 4,
+    "Nama_Produk": "Tangan Piston Force-1",
+    "Harga": "125000"
+  },
+  {
+    "Id": 5,
+    "Nama_Produk": "Batok Depan Cakram Avira Hitam",
+    "Harga": "90000"
+  },
+  {
+    "Id": 6,
+    "Nama_Produk": "Accu MF",
+    "Harga": "100000"
+  },
+  {
+    "Id": 7,
+    "Nama_Produk": "Enduro Matic",
+    "Harga": "65000"
+  },
+  {
+    "Id": 8,
+    "Nama_Produk": "Kontak Assy Satria F",
+    "Harga": "170000"
+  },
+  {
+    "Id": 9,
+    "Nama_Produk": "Bagian Deapan Neotech",
+    "Harga": "13000"
+  },
+  {
+    "Id": 10,
+    "Nama_Produk": "Sandar tengah Mio M3",
+    "Harga": "7000"
+  },
+  {
+    "Id": 11,
+    "Nama_Produk": "Gas(B) Vario 125 Binaparts",
+    "Harga": "25000"
+  },
+  {
+    "Id": 12,
+    "Nama_Produk": "Gas(A) Vario 125 Binaparts",
+    "Harga": "25000"
+  },
+  {
+    "Id": 13,
+    "Nama_Produk": "Gas(A)Beat Pop Binaparts",
+    "Harga": "25000"
+  },
+  {
+    "Id": 14,
+    "Nama_Produk": "Gas (B) Beat Pop Binaparts",
+    "Harga": "25000"
+  },
+  {
+    "Id": 15,
+    "Nama_Produk": "Saringan Udara Supra X",
+    "Harga": "50000"
+  },
+  {
+    "Id": 16,
+    "Nama_Produk": "Lampu Depan Beat",
+    "Harga": "16000"
+  },
+  {
+    "Id": 17,
+    "Nama_Produk": "Stater Assy Mio JRUI",
+    "Harga": "130000"
+  },
+  {
+    "Id": 18,
+    "Nama_Produk": "Stater Assy Verza JRUI",
+    "Harga": "150000"
+  },
+  {
+    "Id": 19,
+    "Nama_Produk": "Stater Assy Jupiter JRUI",
+    "Harga": "130000"
+  },
+  {
+    "Id": 20,
+    "Nama_Produk": "Cakram Depan Sunstar R15",
+    "Harga": "85000"
+  },
+  {
+    "Id": 21,
+    "Nama_Produk": "Knalpot TengahRXK Zunagawa",
+    "Harga": "5000"
+  },
+  {
+    "Id": 22,
+    "Nama_Produk": "Fuel Pomp Injeksi Beat",
+    "Harga": "85000"
+  },
+  {
+    "Id": 23,
+    "Nama_Produk": "Ayun Assy Vixion",
+    "Harga": "120000"
+  },
+  {
+    "Id": 24,
+    "Nama_Produk": "Assy RXK New Chrome Binaparts",
+    "Harga": "170000"
+  },
+  {
+    "Id": 25,
+    "Nama_Produk": "BL 70/90 - 17 NR72 IRC",
+    "Harga": "175000"
+  },
+  {
+    "Id": 26,
+    "Nama_Produk": "BL 80/90 - 17 NR72 IRC",
+    "Harga": "225000"
+  },
+  {
+    "Id": 27,
+    "Nama_Produk": "BL 90/90 - 17 NR72 IRC",
+    "Harga": "300000"
+  },
+  {
+    "Id": 28,
+    "Nama_Produk": "Seal Oil Pump",
+    "Harga": "15000"
+  },
+  {
+    "Id": 29,
+    "Nama_Produk": "Saringan Angin/Louver Supra X 125 Hitam",
+    "Harga": "70000"
+  },
+  {
+    "Id": 30,
+    "Nama_Produk": "Saringan Angin/Louver Supra X 125 New Hitam",
+    "Harga": "150000"
+  },
+  {
+    "Id": 31,
+    "Nama_Produk": "Tutup Gear Depan Revo Absolute Hitam",
+    "Harga": "65000"
+  },
+  {
+    "Id": 32,
+    "Nama_Produk": "Tutup Gear Depan Vega ZR Hitam",
+    "Harga": "67000"
+  },
+  {
+    "Id": 33,
+    "Nama_Produk": "Tutup Gear Depan Jupiter MX Silver",
+    "Harga": "75000"
+  }
+]
